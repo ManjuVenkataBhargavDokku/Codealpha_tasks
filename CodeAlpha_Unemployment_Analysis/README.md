@@ -129,7 +129,7 @@ Unemployment-Analysis/
 Clone the repository
 
 ```bash
-git clone https://github.com/ManjuVenkataBhargavDokku/Unemployment-Analysis.git
+git clone https://github.com/ManjuVenkataBhargavDokku/Unemployment_Analysis.git
 ```
 
 ---
