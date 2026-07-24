@@ -356,11 +356,6 @@ The project automatically generates the following charts inside the **images/** 
 
 ---
 
-## Terminal Output
-
-![Terminal Output](images/terminal_output.png)
-
----
 
 # Key Insights
 
@@ -429,5 +424,3 @@ GitHub: https://github.com/ManjuVenkataBhargavDokku
 This project is licensed under the **MIT License**.
 
 ---
-
-# If you found this project helpful, please consider giving it a star on GitHub!
