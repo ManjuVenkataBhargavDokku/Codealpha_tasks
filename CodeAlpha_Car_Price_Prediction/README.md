@@ -323,17 +323,6 @@ The regression models are evaluated using:
 
 ---
 
-## Prediction Output
-
-![Prediction Output](images/prediction_output.png)
-
----
-
-## Terminal Output
-
-![Terminal Output](images/terminal_output.png)
-
----
 
 # Sample Prediction
 
