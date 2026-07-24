@@ -293,11 +293,6 @@ The regression models are evaluated using:
 
 ---
 
-## Feature Importance
-
-![Feature Importance](images/feature_importance.png)
-
----
 
 ## Actual vs Predicted Prices
 
@@ -403,5 +398,3 @@ This project is licensed under the MIT License.
 **CodeAlpha Data Science Internship**
 
 ---
-
-**If you found this project useful, consider giving it a Star on GitHub!**
