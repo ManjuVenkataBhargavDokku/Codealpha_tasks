@@ -426,5 +426,3 @@ Fork the repository, create a new branch, make your changes, and submit a Pull R
 GitHub: https://github.com/ManjuVenkataBhargavDokku
 
 ---
-
-# If you found this project useful, please consider giving it a star on GitHub!
